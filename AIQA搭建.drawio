@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T18:34:44.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" version="14.1.9" etag="CGKxWA0zyuGXYa72YEBJ" type="github"><diagram id="wr1Vg4WFNjLce9JvmpkT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-17T18:49:09.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="9vJXLQx3rWzBj00_7sHJ" version="14.1.9" type="github">
+  <diagram id="wr1Vg4WFNjLce9JvmpkT" name="Page-1">
+    <mxGraphModel dx="2031" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="820" width="1440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-4" value="基础建设" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=35;size=30;position=0.13;position2=0.04;fontSize=20;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="760" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-6" value="测试环境治理&lt;br&gt;docker k8s？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="875" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-7" value="流程管理&lt;br&gt;JIRA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="875" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-8" value="发布管理&lt;br&gt;Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="875" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-9" value="测试数据维护、构造&lt;br&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="875" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-10" value="业务积累&lt;br&gt;wiki &amp;amp; 自动化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="875" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="1440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-13" value="中层支撑" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=35;size=30;position=0.13;position2=0.04;fontSize=20;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="470" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-14" value="自动化&amp;amp;环境&lt;br&gt;to do" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="585" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-15" value="CI快速接入平台&lt;br&gt;to do" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-16" value="性能测试环境&lt;br&gt;to do&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="585" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-17" value="测试数据维护、构造&lt;br&gt;?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="585" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-18" value="业务积累&lt;br&gt;wiki &amp;amp; 自动化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="585" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XUdV0GE2fvMEAlolcUsE-19" value="CI流程搭建&lt;br&gt;doing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="875" width="180" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
