@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T08:57:04.236Z" agent="5.0 (Macintosh)" etag="g_Cb6ODBi6wlGPqXu57a" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T08:58:37.444Z" agent="5.0 (Macintosh)" etag="x5HI-boiLyNaNuazBWcO" version="14.2.4" type="github">
   <diagram id="wr1Vg4WFNjLce9JvmpkT" name="Page-1">
     <mxGraphModel dx="1113" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -130,6 +130,15 @@
         <mxCell id="lKchyopIAt6gMCmbtjTO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKchyopIAt6gMCmbtjTO-32" target="lKchyopIAt6gMCmbtjTO-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lKchyopIAt6gMCmbtjTO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKchyopIAt6gMCmbtjTO-32" target="lKchyopIAt6gMCmbtjTO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKchyopIAt6gMCmbtjTO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKchyopIAt6gMCmbtjTO-32" target="lKchyopIAt6gMCmbtjTO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKchyopIAt6gMCmbtjTO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKchyopIAt6gMCmbtjTO-32" target="lKchyopIAt6gMCmbtjTO-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKchyopIAt6gMCmbtjTO-32" value="测试维度扩展&lt;br&gt;to do" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="1060" width="180" height="100" as="geometry" />
         </mxCell>
@@ -139,8 +148,11 @@
         <mxCell id="lKchyopIAt6gMCmbtjTO-35" value="测试覆盖率" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="850" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lKchyopIAt6gMCmbtjTO-36" value="测试覆盖率" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="lKchyopIAt6gMCmbtjTO-36" value="error log自查" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="850" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKchyopIAt6gMCmbtjTO-37" value="慢查询事务自查" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
